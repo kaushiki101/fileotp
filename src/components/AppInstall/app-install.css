@@ -1,0 +1,18 @@
+.appInstall.wrapper {
+  width: 280px;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 4px;
+}
+
+.appInstall.button {
+  margin-top: 0.5rem;
+  width: 100%;
+  background: var(--soft);
+  padding: 0.5rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+}
