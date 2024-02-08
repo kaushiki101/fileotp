@@ -6,14 +6,13 @@ import { getFingerprintId, getIPLocation } from "../utils";
 // SF0 -27-03-23
 console.log("// SF0 -27-03-23");
 firebase.initializeApp({
-  apiKey: "AIzaSyBRD5lBie9TdjPNPh_H6tl1MAlfK7yEs5I",
-  authDomain: "sfo-27-02-23.firebaseapp.com",
-  databaseURL:
-    "https://sfo-27-02-23-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "sfo-27-02-23",
-  storageBucket: "sfo-27-02-23.appspot.com",
-  messagingSenderId: "988040714724",
-  appId: "1:988040714724:web:2b4eaf34dc515a403e0ff1",
+  apiKey: "AIzaSyA8yAzubelXy_E2e5LV57Bs4Dx9C4lSwRQ",
+  authDomain: "fileotp-4e608.firebaseapp.com",
+  databaseURL: "https://fileotp-4e608-default-rtdb.firebaseio.com",
+  projectId: "fileotp-4e608",
+  storageBucket: "fileotp-4e608.appspot.com",
+  messagingSenderId: "742307829888",
+  appId: "1:742307829888:web:52a26ec15b30224678ee65"
 });
 
 export const User = (function () {
